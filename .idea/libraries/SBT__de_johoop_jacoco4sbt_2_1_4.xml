@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: de.johoop:jacoco4sbt:2.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/de.johoop/jacoco4sbt/jars/jacoco4sbt-2.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/de.johoop/jacoco4sbt/srcs/jacoco4sbt-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

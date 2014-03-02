@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<properties>
+    <weather>
+        <city name="Köln" id ="667931" />
+        <city name="Solingen" id="695533" />
+    </weather>
+    <transit>
+        <station name="Solingen+Hbf,+Ohligs," />
+        <station name="Köln+Hbf,+Köln." />
+    </transit>
+
+</properties>

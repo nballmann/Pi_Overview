@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.jacoco:org.jacoco.report:0.6.4.201312101107">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jacoco/org.jacoco.report/jars/org.jacoco.report-0.6.4.201312101107.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jacoco/org.jacoco.report/docs/org.jacoco.report-0.6.4.201312101107-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jacoco/org.jacoco.report/srcs/org.jacoco.report-0.6.4.201312101107-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
